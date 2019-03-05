@@ -1,5 +1,5 @@
-F:\学习\ISBN_JD\ISBN_JD
+F:\学习\ISBN_JD\ISBN_JD_NETCORE
 --output-path=obj\Release\netcoreapp2.0\
---application-name=ISBN_JD
---content-root=F:\学习\ISBN_JD\ISBN_JD
+--application-name=ISBN_JD_DOTNETCORE
+--content-root=F:\学习\ISBN_JD\ISBN_JD_NETCORE
 --file=

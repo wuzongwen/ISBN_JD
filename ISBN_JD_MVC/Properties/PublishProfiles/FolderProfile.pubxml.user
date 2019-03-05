@@ -10,22 +10,25 @@
   </PropertyGroup>
   <ItemGroup>
     <File Include="bin/Common.dll">
-      <publishTime>03/05/2019 16:46:21</publishTime>
+      <publishTime>03/05/2019 18:43:12</publishTime>
     </File>
     <File Include="bin/Common.pdb">
-      <publishTime>03/05/2019 16:46:21</publishTime>
+      <publishTime>03/05/2019 18:43:12</publishTime>
     </File>
     <File Include="bin/ISBN_JD_MVC.dll">
-      <publishTime>03/05/2019 16:46:25</publishTime>
+      <publishTime>03/05/2019 18:43:16</publishTime>
     </File>
     <File Include="bin/ISBN_JD_MVC.pdb">
-      <publishTime>03/05/2019 16:46:25</publishTime>
+      <publishTime>03/05/2019 18:43:16</publishTime>
     </File>
     <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
       <publishTime>08/15/2017 13:12:32</publishTime>
     </File>
     <File Include="bin/Newtonsoft.Json.dll">
-      <publishTime>08/03/2014 20:33:56</publishTime>
+      <publishTime>11/27/2018 18:07:34</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.pdb">
+      <publishTime>11/27/2018 17:59:08</publishTime>
     </File>
     <File Include="bin/roslyn/csc.exe">
       <publishTime>06/27/2016 14:50:24</publishTime>
@@ -133,7 +136,7 @@
       <publishTime>03/05/2019 16:17:13</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>03/05/2019 16:46:25</publishTime>
+      <publishTime>03/05/2019 18:43:16</publishTime>
     </File>
   </ItemGroup>
 </Project>

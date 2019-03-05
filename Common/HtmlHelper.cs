@@ -90,5 +90,50 @@ namespace Common
         {
             return Regex.Replace(key, @"[^\d]*", "");
         }
+
+        /// <summary>
+        /// 获取书籍索引
+        /// </summary>
+        /// <param name="sHtmlText"></param>
+        /// <returns></returns>
+        public static int GetBookIndex(string sHtmlText)
+        {
+            // 搜索匹配的字符串
+            MatchCollection matches = GetMidValue("<div class=\"p-shop\"", "</div>", sHtmlText);
+
+            int BookIndex = 0;
+            string[] sUrlList = new string[matches.Count];
+
+            // 取得匹配项列表
+            int i = 0;
+            foreach (Match match in matches)
+            {
+                if (match.Value.Contains("书"))
+                {
+                    BookIndex = i;
+                    break;
+                }
+                else
+                {
+                    BookIndex = 0;
+                }
+                i++;
+            }
+
+            return BookIndex;
+        }
+
+        /// <summary>
+        /// 获得字符串中开始和结束字符串中间得值
+        /// </summary>
+        /// <param name="begin">开始匹配标记</param>
+        /// <param name="end">结束匹配标记</param>
+        /// <param name="html">Html字符串</param>
+        /// <returns>返回中间字符串</returns>
+        public static MatchCollection GetMidValue(string begin, string end, string html)
+        {
+            Regex reg = new Regex("(?<=(" + begin + "))[.\\s\\S]*?(?=(" + end + "))", RegexOptions.Multiline | RegexOptions.Singleline);
+            return reg.Matches(html);
+        }
     }
 }
