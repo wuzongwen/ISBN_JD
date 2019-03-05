@@ -1,0 +1,11 @@
+F:\学习\ISBN_JD\ISBN_JD\bin\Debug\netcoreapp2.0\ISBN_JD.deps.json
+F:\学习\ISBN_JD\ISBN_JD\bin\Debug\netcoreapp2.0\ISBN_JD.runtimeconfig.json
+F:\学习\ISBN_JD\ISBN_JD\bin\Debug\netcoreapp2.0\ISBN_JD.runtimeconfig.dev.json
+F:\学习\ISBN_JD\ISBN_JD\bin\Debug\netcoreapp2.0\ISBN_JD.dll
+F:\学习\ISBN_JD\ISBN_JD\bin\Debug\netcoreapp2.0\ISBN_JD.pdb
+F:\学习\ISBN_JD\ISBN_JD\obj\Debug\netcoreapp2.0\ISBN_JD.csprojResolveAssemblyReference.cache
+F:\学习\ISBN_JD\ISBN_JD\obj\Debug\netcoreapp2.0\ISBN_JD.csproj.CoreCompileInputs.cache
+F:\学习\ISBN_JD\ISBN_JD\obj\Debug\netcoreapp2.0\ISBN_JD.AssemblyInfoInputs.cache
+F:\学习\ISBN_JD\ISBN_JD\obj\Debug\netcoreapp2.0\ISBN_JD.AssemblyInfo.cs
+F:\学习\ISBN_JD\ISBN_JD\obj\Debug\netcoreapp2.0\ISBN_JD.dll
+F:\学习\ISBN_JD\ISBN_JD\obj\Debug\netcoreapp2.0\ISBN_JD.pdb

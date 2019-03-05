@@ -1,0 +1,6 @@
+F:\学习\ISBN_JD\Common\bin\Release\Common.dll
+F:\学习\ISBN_JD\Common\bin\Release\Common.pdb
+F:\学习\ISBN_JD\Common\obj\Release\Common.csprojResolveAssemblyReference.cache
+F:\学习\ISBN_JD\Common\obj\Release\Common.csproj.CoreCompileInputs.cache
+F:\学习\ISBN_JD\Common\obj\Release\Common.dll
+F:\学习\ISBN_JD\Common\obj\Release\Common.pdb
